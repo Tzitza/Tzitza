@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tzitza 👋</h1>
 
 <p align="center">
-  CS student & developer based in Athens, Greece 🇬🇷 <br/>
+  Computer Science graduate & developer based in Athens, Greece 🇬🇷 <br/>
   Interested in <b>Embedded Systems</b>, <b>Machine Learning</b>, and <b>Graphics Programming</b>
 </p>
 
@@ -13,8 +13,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Studying Computer Science
-- 🔭 Currently building things across mobile apps, IoT devices, and ML experiments
+- 🎓 Computer Science graduate
+- 💼 Open to entry-level opportunities — software engineering, embedded systems, or ML roles
+- 🚀 Learning through hands-on projects while building my professional experience
+- 🔭 Building things across mobile apps, IoT devices, and ML experiments
 - 🌱 Exploring computer graphics, embedded systems, and classic ML algorithms from the ground up
 - 📍 Based in Athens, Greece
 - ⚡ Fun fact: I like implementing algorithms (K-means, Naive Bayes, Simulated Annealing) from scratch to really understand how they work
