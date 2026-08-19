@@ -35,8 +35,8 @@ I am a passionate Junior Software Engineer focused on building clean, responsive
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzitza&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzitza&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tzitza&show_icons=true&theme=radial&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzitza&layout=compact&theme=radial&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
