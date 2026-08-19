@@ -17,7 +17,7 @@ Computer Science graduate based in Athens, Greece. Interested in new technologie
 
 C++, Python, Dart/Flutter, OpenGL, ESP32/embedded C
 
-## Contact
+<!-- ## Contact -->
 
 <!-- LinkedIn: -->
 <!-- Email: -->
