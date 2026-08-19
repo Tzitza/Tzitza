@@ -1,8 +1,6 @@
 # Hi, I'm Tzitza
 
-Computer Science graduate based in Athens, Greece. Interested in embedded systems, machine learning, and graphics programming.
-
-I like understanding how things work under the hood, so a lot of my projects are algorithms and systems built from scratch rather than using ready-made libraries.
+Computer Science graduate based in Athens, Greece. Interested in new technologies and always learning new things in computer science. I like building things from scratch to understand how they really work.
 
 ## Projects
 
