@@ -12,6 +12,8 @@ I like understanding how things work under the hood, so a lot of my projects are
 - **[kmeans_clustering_implementation](https://github.com/Tzitza/kmeans_clustering_implementation)** — K-means clustering implemented from scratch in Python
 - **[Naive_Bayes_Classifier](https://github.com/Tzitza/Naive_Bayes_Classifier)** — Naive Bayes classifier for the Iris dataset, built from scratch
 - **[Optimization_algorithms](https://github.com/Tzitza/Optimization_algorithms)** — MinFinder and Simulated Annealing in C++
+- **[Phishing_Detection_ML](https://github.com/Tzitza/Phishing_Detection_ML)** — Decision Trees & k-NN for detecting phishing websites from URL features
+- **[Crypto_Security_Tools](https://github.com/Tzitza/Crypto_Security_Tools)** — Python tools for file integrity verification and secure password auth using hashing, encryption, and digital signatures
 
 ## Tech
 
